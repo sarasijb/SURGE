@@ -1,7 +1,10 @@
 # SURGE
-SURGE Summer Project \n
-ABSTRACT: \n
+SURGE Summer Project
+
+ABSTRACT:
+
 SARASIJ BANERJEE, CHEMICAL ENGINEERING, 1930029, IITK
+
 The proposed SURGE project under Prof. Jayant K. Singh involves the computational aspects of phase transitions at the molecular level.  We propose the investigation of a nano-confined Lennard-Jones fluid.
 Classical molecular dynamics is to be employed to study a system of nano-scale size, using the Massively parallel free and open-source software LAMMPS(Large-scale Atomic/Molecular Massively Parallel Simulator)  
 To familiarise with LAMMPS, a waterbox was developed and equlibriated and RDF’s were plotted for the system.    
